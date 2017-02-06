@@ -1,2 +1,5 @@
 # hello-world
-a test of repository
+
+Hello,everyone!
+I'm interested in coding, and just starting at it.
+
